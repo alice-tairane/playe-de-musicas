@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.25);
+}
+
+.box-playe-music{
+    background-color: rgba(12, 12, 12, 0.486);
+    min-height: 600px;
+    width: 400px;
+   margin-left: 30%;
+   margin-top: 18.1rem;
+    padding: 33px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    border: none;
+    border-radius: 1.0rem;
+}
+
+.descricao{
+    width: 300px;
+    margin-top: 9px;
+    margin-left: 56px;
+
+}
+
+.barra{
+    width: 300px;
+    height: 6px;
+    border: 2px solid #eee;
+    border-radius: 5px;
+    display:flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 40px;
+    margin-left: 49px;
+
+}
+progress{
+    height: 6px;
+    width: 0%;
+    
+}
+
+h2{
+    margin-bottom: 5px;
+}
+
+.ponto{
+    width: 20px;
+    height: 20px;
+    background: #eee;
+    border-radius: 50%;
+    margin-left: -10px;
+}
+
+.tempo{
+    display: flex;
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 6px;
+    justify-content: space-between;
+}
+
+.player{
+    width: 300px;
+    display: flex;
+    justify-content:space-around ;
+    align-items: center;
+    margin-top:15px ;
+    margin-left: 49px;
+}
+.botao-play , .botao-pause{
+    font-size: 50px;
+    cursor: pointer;
+}
+.setas{
+    font-size: 40px;
+    cursor: pointer;
+}
+.botao-pause{
+    display: none;
+    cursor: pointer;
+}
