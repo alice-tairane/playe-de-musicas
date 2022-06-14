@@ -27,10 +27,14 @@ img{
 }
 
 .descricao{
+   
     width: 300px;
     margin-top: 9px;
     margin-left: 56px;
 
+}
+i{
+    font-size: 26px;
 }
 
 .barra{

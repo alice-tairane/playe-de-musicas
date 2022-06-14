@@ -61,8 +61,69 @@ let musicas = [
         artista:'AnaVitoria', 
         src:'music/pupila.mp3',
         img:'img/pupila.jpeg' 
-    }
+    },
 
+    {
+        titulo:'cor de marte',
+        artista:'Anavitoria',
+        src:'music/cor_de_marte.mp3',
+        img:'img/cor-de-marte.jpeg'
+    },
+
+  {
+        titulo:'Partilhar',
+        artista:'Anavitoria',
+        src:'music/partilhar.mp3',
+        img:'img/partilhar.jpeg'
+    },
+
+    {
+        titulo:'Lisboa',
+        artista:'Anavitoria',
+        src:'music/lisboa.mp3',
+        img:'img/lisboa.jpeg'
+    },
+    
+    {
+        titulo:'Trevo',
+        artista:'Anavitoria',
+        src:'music/trevo.mp3',
+        img:'img/trevo.jpeg'
+    },
+
+    {
+        titulo:'Cigarra',
+        artista:'Anavitoria',
+        src:'music/cigarra.mp3',
+        img:'img/cigarra.jpeg'
+    },
+
+    {
+        titulo:'Perdoa',
+        artista:'Anavitoria',
+        src:'music/perdoa.mp3',
+        img:'img/perdoa.jpeg'
+    },
+
+    {
+        titulo:'Doi sem tanto',
+        artista:'Anavitoria',
+        src:'music/doi_sem_tanto.mp3',
+        img:'img/doisemtanto.jpeg'
+    },
+
+    {
+        titulo:'Fica',
+        artista:'Anavitoria',
+        src:'music/fica.mp3',
+        img:'img/ficar.jpeg'
+    },
+    
+    
+    
+    
+    
+    
 
 ];
 
